@@ -52,7 +52,7 @@ grammars <- grammars %>% mutate(shortening = ifelse(grepl("A\\)", Aa) |
 sum(grammars$shortening)
 
 
-############### Avoidance effects: Stress lured away fro High-toned heavies (and similar effects)
+############### Avoidance effects: Stress lured away from High-toned heavies (and similar effects)
 
 grammars <- grammars %>% mutate(avoidance = ifelse(grepl("\\(A\\)\\.", a.a) | 
                                          grepl("\\(A\\)\\.", A.a) |
