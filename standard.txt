@@ -1,0 +1,10 @@
+			Head-H	FtBin	Dep-H	Dep-m	Max-H
+			Head-H	FtBin	Dep-H	Dep-m	Max-H
+a	(a)	1	1	1	0	0	0
+	(A)	0	0	1	1	0	0
+	(aa)	0	1	0	0	1	0
+	(Aa)	0	0	0	1	1	0
+A	(a)	0	1	1	0	0	1
+	(A)	1	0	1	0	0	0
+	(aa)	0	1	0	0	1	1
+	(Aa)	0	0	0	0	1	0
